@@ -117,9 +117,9 @@
 .home-screen {
   width: 100vw;
   height: 80vh;
-  background-image: url("");
+  background-image: url("https://i.imgur.com/LDZ8IvP.jpg");
   background-size: cover;
-  background-position-y: 100%;
+  background-position-y: 10%;
 }
 
 .contact-screen {
