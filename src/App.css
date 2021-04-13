@@ -125,21 +125,21 @@
   /* background-color: rgb(0, 4, 24) */
   background-image: url(https://wallpaperaccess.com/full/31366.jpg);
   background-size: cover;
-  background-position-y: 60%;
+  background-position-y: 62%;
 }
 
 .resume {
   height: 60vh;
   width: 40vh;
   box-shadow: 0 1px 1px rgb(216, 246, 255);
-  margin-top: 1vh;
+  margin-top: 2vh;
 }
 
 .resume:hover {
   height: 80vh;
   width: 30vw;
   margin-top: -13vh;
-  box-shadow: 0 5px 2px 5px rgba(78, 190, 255, 0.288);
+  box-shadow: 0 3px 2px 5px rgba(78, 190, 255, 0.288);
 }
 
 .resume-download {
