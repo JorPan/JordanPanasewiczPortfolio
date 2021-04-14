@@ -95,6 +95,14 @@
   bottom: 0;
 }
 
+.footer-tag {
+  color: white;
+  transform: scaleX(-1);
+  bottom: 0;
+  left: 10px;
+  position: absolute;
+}
+
 .circle-photo {
   width: 15vw;
   margin-top: 5vh;
