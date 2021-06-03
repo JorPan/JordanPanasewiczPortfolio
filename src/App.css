@@ -118,6 +118,13 @@
   background-position-y: 10%;
 }
 
+.home-top-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-left: 2rem;
+}
+
 .contact-screen {
   width: 100vw;
   height: 80vh;
