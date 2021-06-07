@@ -6,7 +6,7 @@ export default function Media() {
       <ul>
         <li>Music</li>
         <li>Visuals</li>
-        <li>Travel</li>
+        <li>Photography</li>
       </ul>
     </div>
   );

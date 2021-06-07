@@ -1,1 +1,1 @@
-This is the repo for my portfolio site that is still in the works. 
+# Coming soon - Jordan Panasewicz' Portfolio site
