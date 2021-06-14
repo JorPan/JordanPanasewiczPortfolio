@@ -10,7 +10,6 @@ export default function Projects() {
         <li>Herbals</li>
         <li>Asteroids</li>
         <li>DrumKit</li>
-        <li>SoundBoard</li>
       </ul>
     </div>
   );
