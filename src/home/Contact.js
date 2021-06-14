@@ -38,12 +38,12 @@ export default function Contact() {
           />
         </a>
       </div>
-      <div className="media-names">
+      {/* <div className="media-names">
         <p className="media-name">e-mail</p>
         <p className="media-name">profile</p>
         <p className="media-name">videos</p>
         <p className="media-name">blog</p>
-      </div>
+      </div> */}
       <div>
         <p className="get-in-touch">Let's Get Funky!</p>
       </div>
