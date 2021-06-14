@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Projects() {
   return (
-    <div className="projects-screen">
+    <div className="projects-page">
       <ul>
         <li>Mode-ify</li>
         <li>Lyricize</li>
