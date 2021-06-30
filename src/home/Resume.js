@@ -5,7 +5,7 @@ import { Document } from "react-pdf";
 
 export default function Resume() {
   return (
-    <div className="resume-screen">
+    <div className="resume-page">
       <div className="resume-download">
         <DownloadLink src="https://pdfhost.io/v/pNaPPD2VU_Jordan_Panasewicz_Resumepdf.pdf">
           Click Here to View or Download PDF

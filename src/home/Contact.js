@@ -2,7 +2,8 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <div className="contact-screen">
+    <div className="contact-page">
+      <div>
       <img
         className="circle-photo"
         src="https://i.imgur.com/j289lch.jpg"
@@ -47,6 +48,8 @@ export default function Contact() {
       <div>
         <p className="get-in-touch">Let's Get Funky!</p>
       </div>
+      </div>
+      
     </div>
   );
 }
