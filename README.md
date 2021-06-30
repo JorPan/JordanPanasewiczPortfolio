@@ -1,1 +1,1 @@
-# Coming soon - Jordan Panasewicz' Portfolio site?!
+# Coming soon - Jordan Panasewicz' Portfolio site
