@@ -16,15 +16,29 @@ export default function Projects() {
         <Project
           name="Lyricize"
           description="Magical lyric writing tool"
-          techStack="React, Ruby on Rails, 6 unique API's,"
+          techStack="React, Ruby on Rails, PostgresQL, 6 unique API's"
           frontEndLink="https://github.com/JorPan/lyricize-frontend"
           backEndLink="https://github.com/JorPan/lyricize-backend"
           demoLink="https://www.youtube.com/watch?v=xNXhS0R3J9k"
         />
-        <li>Mode-ify</li>
-        <li>Lyricize</li>
-        <li>SetLy</li>
-        <li>Herbals</li>
+        <Project
+          name="SetLy"
+          description="Set building and concert data tracking for DJ's and Performing Artists"
+          techStack="Vanilla JS, Ruby on Rails, SQLite"
+          frontEndLink="https://github.com/JorPan/realSetLy"
+          backEndLink=""
+          demoLink="https://www.youtube.com/watch?v=T71Ynuger6M"
+        />
+        <Project
+          name="Herbals"
+          description="Strain suggestor and desired effects filtering"
+          techStack="Vanilla JS, Ruby on Rails, SQLite"
+          frontEndLink="https://github.com/JorPan/HerbalsFrontend"
+          backEndLink="https://github.com/JorPan/HerbalsBackend"
+          demoLink="https://www.youtube.com/watch?v=DBSvbyIl-LU"
+        />
+        <li>FlashCards</li>
+        <li>Jazzy Jay's Youtube Jukebox</li>
         <li>Asteroids</li>
         <li>To Do</li>
         <li>DrumKit</li>
