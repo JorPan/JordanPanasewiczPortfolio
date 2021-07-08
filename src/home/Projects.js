@@ -13,6 +13,14 @@ export default function Projects() {
           backEndLink="https://github.com/JorPan/musicly-backend"
           demoLink="https://www.youtube.com/watch?v=HNiOuJO_xKI"
         />
+        <Project
+          name="Lyricize"
+          description="Magical lyric writing tool"
+          techStack="React, Ruby on Rails, 6 unique API's,"
+          frontEndLink="https://github.com/JorPan/lyricize-frontend"
+          backEndLink="https://github.com/JorPan/lyricize-backend"
+          demoLink="https://www.youtube.com/watch?v=xNXhS0R3J9k"
+        />
         <li>Mode-ify</li>
         <li>Lyricize</li>
         <li>SetLy</li>
