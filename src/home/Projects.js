@@ -12,6 +12,7 @@ export default function Projects() {
           frontEndLink="https://github.com/JorPan/musicly-frontend"
           backEndLink="https://github.com/JorPan/musicly-backend"
           demoLink="https://www.youtube.com/watch?v=HNiOuJO_xKI"
+          deployedLink=""
         />
         <Project
           name="Lyricize"
@@ -20,6 +21,7 @@ export default function Projects() {
           frontEndLink="https://github.com/JorPan/lyricize-frontend"
           backEndLink="https://github.com/JorPan/lyricize-backend"
           demoLink="https://www.youtube.com/watch?v=xNXhS0R3J9k"
+          deployedLink=""
         />
         <Project
           name="SetLy"
@@ -28,6 +30,7 @@ export default function Projects() {
           frontEndLink="https://github.com/JorPan/realSetLy"
           backEndLink=""
           demoLink="https://www.youtube.com/watch?v=T71Ynuger6M"
+          deployedLink=""
         />
         <Project
           name="Herbals"
@@ -36,11 +39,54 @@ export default function Projects() {
           frontEndLink="https://github.com/JorPan/HerbalsFrontend"
           backEndLink="https://github.com/JorPan/HerbalsBackend"
           demoLink="https://www.youtube.com/watch?v=DBSvbyIl-LU"
+          deployedLink=""
         />
-        <li>FlashCards</li>
-        <li>Jazzy Jay's Youtube Jukebox</li>
-        <li>Asteroids</li>
-        <li>To Do</li>
+        <Project
+          name="Asteroids"
+          description="Vanilla JS Remake of the 1979 Atari Game"
+          techStack="Vanilla JS"
+          frontEndLink="https://github.com/JorPan/asteroidjs"
+          backEndLink=""
+          demoLink=""
+          deployedLink="https://jorpan.github.io/asteroidjs/"
+        />
+        <Project
+          name="Flashcards"
+          description="Flashcards App for learning and memory practice"
+          techStack="React and LocalStorage"
+          frontEndLink="https://github.com/JorPan/flashcards"
+          backEndLink=""
+          demoLink=""
+          deployedLink=""
+        />
+        <Project
+          name="Notify"
+          description="Definitely not Spotify"
+          techStack="React, Node, Spotify web API"
+          frontEndLink="https://github.com/JorPan/not-ify"
+          backEndLink=""
+          demoLink=""
+          deployedLink=""
+        />
+        <Project
+          name="2do"
+          description="Full auth to do app"
+          techStack="React, Ruby on Rails, PostgresQL"
+          frontEndLink="https://github.com/JorPan/2do-frontend"
+          backEndLink="https://github.com/JorPan/2do-backend"
+          demoLink=""
+          deployedLink=""
+        />
+        <Project
+          name="Jazzy Jay's Youtube Jukebox"
+          description="CLI Jukebox app w/ Reviews"
+          techStack="Ruby, Sinatra, ActiveRecord, SQLite, TTY Prompt"
+          frontEndLink="https://github.com/JorPan/JazzyJaysYoutubeJukebox"
+          backEndLink=""
+          demoLink="https://www.youtube.com/watch?v=XYX37R1wbqg"
+          deployedLink=""
+        />
+
         <li>DrumKit</li>
       </ul>
     </div>

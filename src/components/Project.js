@@ -7,6 +7,7 @@ export default function Project({
   frontEndLink,
   backEndLink,
   demoLink,
+  deployedLink,
 }) {
   return (
     <section className="project-card">
