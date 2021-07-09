@@ -3,7 +3,7 @@ import Project from "../components/Project";
 
 export default function Projects() {
   return (
-    <div className="projects-page">
+    <section className="projects-page">
       <ul className="projects-list">
         <Project
           name="Modify"
@@ -86,9 +86,16 @@ export default function Projects() {
           demoLink="https://www.youtube.com/watch?v=XYX37R1wbqg"
           deployedLink=""
         />
-
-        <li>DrumKit</li>
+        <Project
+          name="RYGBcess"
+          description="Silly Sound Board"
+          techStack="Vanilla JS"
+          frontEndLink="https://github.com/JorPan/RYGBcess"
+          backEndLink=""
+          demoLink=""
+          deployedLink="https://jorpan.github.io/RYGBcess/"
+        />
       </ul>
-    </div>
+    </section>
   );
 }

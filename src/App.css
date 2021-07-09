@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
 
 .App {
   text-align: center;
@@ -168,10 +169,32 @@
   height: 85vh;
   background-color: rgb(0, 5, 24);
   color: white;
+  overflow-x: scroll;
 }
 
 .projects-list {
   list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.project-card {
+  font-family: "Roboto", sans-serif;
+  width: 400px;
+  height: 250px;
+  border: 1px solid rgb(0, 17, 116);
+  border-radius: 50px;
+  margin-bottom: 50px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.project-card:hover {
+  width: 420px;
+  height: 270px;
+  box-shadow: 2px 2px 2px 2px rgb(0, 119, 255);
+  cursor: pointer;
 }
 
 .media-logo {
@@ -213,11 +236,4 @@
 .about-section {
   color: white;
   font-family: "Lobster", cursive;
-}
-
-.project-card {
-  width: 400px;
-  height: 300px;
-  border: 1px solid rgb(0, 17, 116);
-  border-radius: 50px;
 }
