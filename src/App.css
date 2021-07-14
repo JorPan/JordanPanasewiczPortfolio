@@ -237,3 +237,12 @@
   color: white;
   font-family: "Lobster", cursive;
 }
+
+.link:visited {
+  color: white;
+}
+
+.repo-links {
+  display: flex;
+  justify-content: space-around;
+}
