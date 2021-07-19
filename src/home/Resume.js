@@ -7,7 +7,7 @@ export default function Resume() {
   return (
     <div className="resume-page">
       <div className="resume-download">
-        <DownloadLink src="https://pdfhost.io/v/pNaPPD2VU_Jordan_Panasewicz_Resumepdf.pdf">
+        <DownloadLink src="https://pdfhost.io/v/pkhcQfd3F_Jordan_Panasewicz_Full_Stack_Engineer_Resumepdf.pdf">
           Click Here to View or Download PDF
         </DownloadLink>
       </div>
