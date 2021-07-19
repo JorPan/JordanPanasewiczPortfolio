@@ -1,4 +1,4 @@
 # Coming soon - Jordan Panasewicz' Portfolio site
 
-- Deployed projects
+- Updated and Deployed projects
 - Semantic HTML / CSS 
