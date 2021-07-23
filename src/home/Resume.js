@@ -12,11 +12,11 @@ export default function Resume() {
         </DownloadLink>
       </div>
 
-      {/* <img
+      <img
         className="resume"
         src="https://i.imgur.com/BqRNFLJ.png"
         alt="JPResume"
-      /> */}
+      />
     </div>
   );
 }
