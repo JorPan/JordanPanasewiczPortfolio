@@ -4,7 +4,10 @@ export default function Footer() {
   return (
     <div className="footer">
       <div className="space"></div>
+      <div className="space"></div>
+      <div className="space"></div>
       <p className="footer-tag">© JorPanTech 2021 </p>
+      <div className="space"></div>
     </div>
   );
 }
