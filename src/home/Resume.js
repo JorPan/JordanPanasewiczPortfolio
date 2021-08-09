@@ -14,8 +14,8 @@ export default function Resume() {
 
       <img
         className="resume"
-        src="https://i.imgur.com/BqRNFLJ.png"
-        alt="JPResume"
+        src="https://i.imgur.com/z60fOyf.jpeg"
+        alt="JordanPanasewiczFullStackResume"
       />
     </div>
   );
